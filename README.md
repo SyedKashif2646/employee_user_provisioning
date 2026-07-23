@@ -8,7 +8,7 @@ You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch main
+bench get-app https://github.com/SyedKashif2646/employee_user_provisioning.git --branch main
 bench install-app employee_user_provisioning
 ```
 
